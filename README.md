@@ -1,2 +1,2 @@
 # mqtt-callback-api
-Mqtt Callback API extended from Paho Java Library
+MQTT Callback API extended from Paho Java Library
